@@ -25,10 +25,11 @@ body{
   margin: 0;
   padding: 25px;
   background-image: url('main.gif');
+
   background-blend-mode: darken;
   background-position: 50% 0%;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
   transition: all 600ms;
   font-size: 0;
 }
